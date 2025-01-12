@@ -1,0 +1,10 @@
+{
+  "name": "com.dolphiiiin.deny-roll",
+  "displayName": "Deny Roll",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Automatically disables Allow Roll on created ParticleSystems.",
+  "author":{"name":"Dolphiiiin","email":"dolphiiiin@users.noreply.github.com"},
+  "legacyFolders":{},
+  "legacyFiles":{}
+}
